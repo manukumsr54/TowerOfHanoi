@@ -334,7 +334,7 @@ function App() {
           onTowerClick={handleTowerClick}
         />
 
-        
+        <p>~ Manu Kumar😎</p>
       </section>
     </main>
   );
