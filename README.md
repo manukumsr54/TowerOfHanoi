@@ -1,4 +1,4 @@
-# 🗼 Tower of Hanoi — React Game--
+# 🗼 Tower of Hanoi — React Game-
 
 An interactive **Tower of Hanoi puzzle game** built with **JavaScript, React, and Vite**.
 The project combines a clean, responsive user interface with the classic **Tower of Hanoi recursive algorithm**, allowing users to interact with the puzzle and understand how the solution works.
